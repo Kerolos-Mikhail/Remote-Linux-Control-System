@@ -1,7 +1,7 @@
 # Remote Linux Control System
 
 ## Introduction
-The Remote Linux Control System is an innovative solution designed to enable users to remotely execute commands and manage a Linux-based system from a remote device. Utilizing C++ and socket programming.
+The Remote Linux Control System is a simple project designed to enable users to remotely execute commands and manage a Linux-based system from a remote device. Utilizing C++ and socket programming.
 
 ## Features
 - **Command Execution:** Execute Linux commands remotely with real-time feedback.
